@@ -1,0 +1,41 @@
+Info:  Net Imp:/WORK/ALU_DW_div_uns_0/remainder[7] is undriven.
+Info:  Net Imp:/WORK/ALU_DW_div_uns_0/remainder[6] is undriven.
+Info:  Net Imp:/WORK/ALU_DW_div_uns_0/remainder[5] is undriven.
+Info:  Net Imp:/WORK/ALU_DW_div_uns_0/remainder[4] is undriven.
+Info:  Net Imp:/WORK/ALU_DW_div_uns_0/remainder[3] is undriven.
+Info:  Net Imp:/WORK/ALU_DW_div_uns_0/remainder[2] is undriven.
+Info:  Net Imp:/WORK/ALU_DW_div_uns_0/remainder[1] is undriven.
+Info:  Net Imp:/WORK/ALU_DW_div_uns_0/remainder[0] is undriven.
+Info:  Net Imp:/WORK/ALU_DW_div_uns_0/divide_by_0 is undriven.
+Info:  Net Imp:/WORK/ALU_DW01_sub_0/CO is undriven.
+Info:  Net Imp:/WORK/ALU_DW01_add_0/CO is undriven.
+Info:  Net Imp:/WORK/ALU_DW01_add_1/CO is undriven.
+Info:  guide_instance_map 39 (Line: 306)  Cannot find design reference 'ASYNC_FIFO'.
+Info:  SVF Operation 39 (Line: 306) - instance_map.  Status: rejected
+
+Info:  guide_instance_map 40 (Line: 311)  Cannot find design reference 'ASYNC_FIFO'.
+Info:  SVF Operation 40 (Line: 311) - instance_map.  Status: rejected
+
+Info:  guide_instance_map 41 (Line: 316)  Cannot find design reference 'ASYNC_FIFO'.
+Info:  SVF Operation 41 (Line: 316) - instance_map.  Status: rejected
+
+Info:  guide_instance_map 45 (Line: 332)  Cannot find design reference 'ASYNC_FIFO'.
+Info:  SVF Operation 45 (Line: 332) - instance_map.  Status: rejected
+
+Info:  guide_instance_map 50 (Line: 362)  Cannot find design reference 'TOP_TX'.
+Info:  SVF Operation 50 (Line: 362) - instance_map.  Status: rejected
+
+Info:  guide_instance_map 51 (Line: 367)  Cannot find design reference 'TOP_TX'.
+Info:  SVF Operation 51 (Line: 367) - instance_map.  Status: rejected
+
+Info:  guide_transformation 92 (Line: 742)  Rejected transformation 92 because design 'ALU' cannot be found.
+Info:  guide_transformation 92 (Line: 742) Retrying with unread processing enabled.
+Info:  guide_transformation 92 (Line: 742)  Rejected transformation 92 because design 'ALU' cannot be found.
+Info:  SVF Operation 92 (Line: 742) - transformation_share.  Status: rejected
+
+Info:  guide_uniquify 102 (Line: 861)  Cannot find object "U1_clock_divider/U17" in design 'SYS_TOP'.
+Info:  SVF Operation 102 (Line: 861) - uniquify.  Status: rejected
+Info:  guide_uniquify 102 (Line: 861)  Cannot find object "U0_clock_divider/U17" in design 'SYS_TOP'.
+Info:  guide_uniquify 110 (Line: 902)  Cannot find object "U0_ALU/dp_cluster_0/mult_28" in design 'SYS_TOP'.
+Info:  Pre-verification of Ref:/WORK/ALU_data_width8_func_width4/div_29 SUCCEEDED.
+Info:  Pre-verification of Ref:/WORK/ALU_data_width8_func_width4/mult_28 SUCCEEDED.
